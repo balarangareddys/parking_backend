@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.7.RELEASE</version>
-		<relativePath>/var/lib/jenkins/workspace/Demo1411_javaparking/pom.xml</relativePath> <!-- lookup parent from repository -->
+		<relativePath\> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hcl</groupId>
 	<artifactId>parking</artifactId>
